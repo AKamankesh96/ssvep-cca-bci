@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18969595.svg)](https://doi.org/10.5281/zenodo.18969595)
 
 # SSVEP Target Detection with CCA in MATLAB
 
@@ -163,3 +164,11 @@ results = run_offline_cca('processed/Data_Offline5.mat', ...
 ```matlab
 predictedLabels = run_online_cca('Data.mat', 'Label.mat');
 ```
+---
+# Citation
+
+If you use this code in academic work, please cite:
+
+Kamankesh, A. (2026).  
+SSVEP Target Detection with CCA in MATLAB.  
+Zenodo. https://doi.org/10.5281/zenodo.18969595
