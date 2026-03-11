@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: SSVEP Target Detection with CCA in MATLAB
+message: If you use this software, please cite it using the metadata below.
+authors:
+  - family-names: Kamankesh
+    given-names: Alireza
+    affiliation: University of Colorado Boulder
+version: 1.0
+date-released: 2026-03-11
+repository-code: https://github.com/AKamankesh96/ssvep-cca-bci
+license: MIT
